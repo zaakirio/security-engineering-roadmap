@@ -1,6 +1,6 @@
-# 12-Week Cyber Security Curriculum
+# Security Engineering Roadmap
 
-This Markdown file contains the 12-week curriculum tailored for transitioning to a Security Engineer/AppSec role.
+This Markdown file contains a 12-week curriculum tailored for transitioning to a Security Engineer/AppSec role coming from a Software Engineering background
 
 | Week    | Focus Area                          | Key Learning Objectives                                                                 | Resources & Labs                                                                                          | Side Project/Milestone                                                                                     |
 |---------|-------------------------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
