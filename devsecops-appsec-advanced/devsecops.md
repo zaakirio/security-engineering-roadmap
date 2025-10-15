@@ -7,7 +7,7 @@
 - API security.
 
 ## Resources & Labs
-- Free: OWASP DevSecOps Guideline, GitHub Security docs.
+- Free: [OWASP DevSecOps](https://owasp.org/www-project-devsecops-guideline/latest) Guideline, GitHub Security docs.
 - Labs: Set up GitHub Actions with security scans (Trivy for containers, Bandit for Python).
 - Course: Coursera "DevOps and Software Engineering" (free audit, security modules).
 
